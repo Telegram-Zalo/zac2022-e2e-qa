@@ -6,7 +6,7 @@ from transformers import AutoModel, AutoConfig
 from transformers import AutoTokenizer
 import pandas as pd
 
-AUTH_TOKEN = "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"
+AUTH_TOKEN = ""
 
 tokenizer = AutoTokenizer.from_pretrained('nguyenvulebinh/vi-mrc-base',
                                           use_auth_token=AUTH_TOKEN)
