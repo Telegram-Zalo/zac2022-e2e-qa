@@ -1,6 +1,6 @@
-# Solution for Zalo AI Challenge 2022 - E2E Question Answering
-
-## Overview [WIP]
+# Winning Solution for Zalo AI Challenge 2022 - E2E Question Answering
+![Leaderboard](https://i.imgur.com/XuSehCA.png)
+## Overview
 Pipeline gồm 4 bước chính:
 
 0. Cắt data wikidump thành các sliding windows kích thước 256.
